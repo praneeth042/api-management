@@ -1,5 +1,3 @@
-# Created as part of the course on "REST API". 
-# http://www.acloudfan.com/learn-REST-API
 # Demonstrates the setting up of URI for the REST API
 
 
@@ -17,7 +15,7 @@ December 2017 Updated the DB Connection code
 Setup
 =====
 1. Clone this project on local file system
-> git clone https://github.com/acloudfan/REST-API-Course-V2.git
+> git clone link-to-project
 2. Pre-requisistes
       a. Understanding of node/npm
       b. An instance of MongoDB available either locally or remotely
@@ -42,7 +40,7 @@ Create from scratch
 
 6. create folder = models
 
-Helpful Links
+<!-- Helpful Links
 =============
 https://github.com/felixge/node-style-guide
-https://blog.risingstack.com/node-js-best-practices/
+https://blog.risingstack.com/node-js-best-practices/ -->
